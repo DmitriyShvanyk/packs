@@ -1,0 +1,8 @@
+.packs__items {
+  padding-top: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 5px 20px rgba(93, 118, 157, .9);
+}

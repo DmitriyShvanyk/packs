@@ -1,0 +1,18 @@
+.packs__column {
+  max-width: 33.333%;
+  width: 33.333%;
+}
+
+@media (max-width:640px) {
+  .packs__column {
+    max-width: 50%;
+    width: 50%;
+  }
+}
+
+@media (max-width:576px) {
+  .packs__column {
+    max-width: 100%;
+    width: 100%;
+  }
+}
